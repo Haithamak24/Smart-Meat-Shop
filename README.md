@@ -88,8 +88,8 @@ No external libraries or frameworks were used. All functionality is implemented 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Haithamak24/Smart-Meat-Shop.git
-
+git clone <https://github.com/Haithamak24/Smart-Meat-Shop>
+```
 2. Open `index.html` in a browser.
 3. Start interacting with the shop:
 
